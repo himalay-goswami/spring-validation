@@ -1,9 +1,9 @@
-package dev.himalay.recalgo.controller;
+package dev.himalay.springvalidation.controller;
 
-import dev.himalay.recalgo.dto.UserRequestDto;
-import dev.himalay.recalgo.entity.User;
-import dev.himalay.recalgo.exception.UserNotFoundException;
-import dev.himalay.recalgo.service.UserService;
+import dev.himalay.springvalidation.dto.UserRequestDto;
+import dev.himalay.springvalidation.entity.User;
+import dev.himalay.springvalidation.exception.UserNotFoundException;
+import dev.himalay.springvalidation.service.UserService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

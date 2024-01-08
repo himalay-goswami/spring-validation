@@ -1,4 +1,4 @@
-package dev.himalay.recalgo.entity;
+package dev.himalay.springvalidation.entity;
 
 
 import jakarta.persistence.Entity;

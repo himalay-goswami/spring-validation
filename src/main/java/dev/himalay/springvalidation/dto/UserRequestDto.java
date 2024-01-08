@@ -1,4 +1,4 @@
-package dev.himalay.recalgo.dto;
+package dev.himalay.springvalidation.dto;
 
 import jakarta.validation.constraints.*;
 import lombok.AllArgsConstructor;

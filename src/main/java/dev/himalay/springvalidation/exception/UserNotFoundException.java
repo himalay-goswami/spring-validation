@@ -1,4 +1,4 @@
-package dev.himalay.recalgo.exception;
+package dev.himalay.springvalidation.exception;
 
 public class UserNotFoundException extends Exception {
     public UserNotFoundException(String message) {
